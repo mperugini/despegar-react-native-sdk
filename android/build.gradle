@@ -1,0 +1,11 @@
+repositories {
+    flatDir {
+        dirs "$rootDir/../node_modules/despegar-react-native-sdk/android"
+    }
+}
+
+dependencies {
+    implementation(name: 'utils-1.1.0', ext: 'aar')
+    implementation(name: 'webkit-2.0.0', ext: 'aar')
+}
+

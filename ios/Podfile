@@ -1,0 +1,5 @@
+platform :ios, '15.4'
+
+target 'DespegarReactNativeSDK' do
+  pod 'DespegarReactNativeSDK', :path => '../node_modules/despegar-react-native-sdk'
+end

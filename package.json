@@ -1,0 +1,19 @@
+{
+  "name": "despegar-react-native-sdk",
+  "version": "1.0.0",
+  "description": "React Native wrapper for Despegar SDKs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "despegar",
+    "sdk"
+  ],
+  "author": "Despegar",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.64.0"
+  }
+}
